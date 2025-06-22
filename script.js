@@ -11,7 +11,6 @@
         const finalScoreDisplay = document.getElementById('finalScore');
         const restartButton = document.getElementById('restartButton');
         const dogThoughtBubble = document.getElementById('dogThoughtBubble');
-
         // Game settings
         const GAME_WIDTH = 800;
         const GAME_HEIGHT = 400;
