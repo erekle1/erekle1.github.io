@@ -20,16 +20,13 @@
         const SPEED_INCREASE_RATE = 0.00005;
         const OBJECT_SPAWN_INTERVAL = 1500;
         const COLLECTIBLE_SPAWN_CHANCE = 0.2;
-
         // Bullet properties
         const BULLET_WIDTH = 30;
         const BULLET_HEIGHT = 15;
         const BULLET_SPEED = 10;
         const BULLET_COLOR = '#FFD700';
-
         canvas.width = GAME_WIDTH;
         canvas.height = GAME_HEIGHT;
-
         // Dog properties
         const dog = {
             x: 50,
